@@ -1,8 +1,7 @@
 # Credit_Risk_Analysis
 Overview: After learning and building up skills in data preparation, statistical reasoning and machine learning . We are tasked to  apply machine learning to sove a real=world challenge: credit card risk using credit card dataset from  Lending Club, a peer to peer lending services company.
 
-
-##  To build and evaluate models, we use **imbalanced-learn** and **scikit-learn libraries** for resampling.The following are used to employ different techniques to train and evaluate models with unbalanced classes to predict credit risk:
+To build and evaluate models, we use **imbalanced-learn** and **scikit-learn libraries** for resampling.The following are used to employ different techniques to train and evaluate models with unbalanced classes to predict credit risk:
 
   -  Oversample the data using the **RandomOverSampler** and **SMOTE algorithms**
   - Undersample the data using the **ClusterCentroids** algorithm
